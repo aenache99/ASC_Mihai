@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ralu.srcs/sources_1/new/UCP.v" \
+"../../../../ralu.srcs/sources_1/new/addr.v" \
+"../../../../ralu.srcs/sources_1/new/alu.v" \
+"../../../../ralu.srcs/sources_1/new/ir.v" \
+"../../../../ralu.srcs/sources_1/new/memorie.v" \
+"../../../../ralu.srcs/sources_1/new/mux_cai_comune.v" \
+"../../../../ralu.srcs/sources_1/new/neumann.v" \
+"../../../../ralu.srcs/sources_1/new/pc.v" \
+"../../../../ralu.srcs/sources_1/new/procesor.v" \
+"../../../../ralu.srcs/sources_1/new/ralu.v" \
+"../../../../ralu.srcs/sources_1/new/regs.v" \
+"../../../../ralu.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,26 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sources_1/new/UCP.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module UCP
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sources_1/new/addr.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addr
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2458] undeclared symbol Z, assumed default net type wire [C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sources_1/new/alu.v:10]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sources_1/new/ir.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ir
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sources_1/new/memorie.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memorie
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sources_1/new/mux_cai_comune.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_cai_comune
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sources_1/new/neumann.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module neumann
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sources_1/new/pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sources_1/new/procesor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module procesor
+INFO: [VRFC 10-2458] undeclared symbol flag, assumed default net type wire [C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sources_1/new/procesor.v:81]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sources_1/new/ralu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ralu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sources_1/new/regs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regs
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/ralu/ralu.srcs/sim_1/new/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb

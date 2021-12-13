@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../harvard.srcs/sources_1/new/R1.v" \
+"../../../../harvard.srcs/sources_1/new/R2.v" \
+"../../../../harvard.srcs/sources_1/new/alu.v" \
+"../../../../harvard.srcs/sources_1/new/harvard.v" \
+"../../../../harvard.srcs/sources_1/new/mem_data.v" \
+"../../../../harvard.srcs/sources_1/new/mem_prog.v" \
+"../../../../harvard.srcs/sources_1/new/pc.v" \
+"../../../../harvard.srcs/sources_1/new/procesor.v" \
+"../../../../harvard.srcs/sources_1/new/regs.v" \
+"../../../../harvard.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

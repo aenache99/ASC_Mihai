@@ -1,0 +1,24 @@
+Vivado Simulator v2021.1.1
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2021.1/bin/unwrapped/win64.o/xelab.exe -wto 7ebdc456c54a4f2f9d34935a75e26649 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_behav xil_defaultlib.tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/harvard/harvard.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/thema/Documents/Facultate/Anul 4 Seria E - MON/Semestrul 1/ASC - Hascsi/Lab Mihai/harvard/harvard.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mem_prog
+Compiling module xil_defaultlib.mem_data
+Compiling module xil_defaultlib.pc
+Compiling module xil_defaultlib.R1
+Compiling module xil_defaultlib.R2
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.regs
+Compiling module xil_defaultlib.procesor
+Compiling module xil_defaultlib.harvard
+Compiling module xil_defaultlib.tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_behav
